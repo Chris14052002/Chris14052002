@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**Chris14052002/Chris14052002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the GitHub space of **Chris**, a **Full Stack Developer** and proud member of the developers team **Young_Devs** 🚀
 
-Here are some ideas to get you started:
+We are currently working on an exciting project called **Di Dwa Enterprise** 🛒 — a powerful and innovative platform designed to empower businesses and enhance digital commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- **Name**: Chris  
+- **Role**: Full Stack Developer  
+- **Team**: Young_Devs  
+- **Current Project**: Di Dwa Enterprise
+
+---
+
+### 🚀 Our Mission with Di Dwa Enterprise
+
+To build a robust, user-friendly, and scalable system that transforms the way local businesses operate and connect with customers in the digital age.
+
+---
+
+### 🔗 Stay Connected
+
+We’ll be sharing updates, code, and progress right here, so feel free to **follow**, **star**, and **watch** the repository for more!
+
+---
