@@ -10,7 +10,7 @@ We are currently working on an exciting project called **Di Dwa Enterprise** ðŸ›
 
 - **Name**: Chris  
 - **Role**: Full Stack Developer  
-- **Team**: Young_Devs  
+- **Team**: young_devs  
 - **Current Project**: Di Dwa Enterprise
 
 ---
